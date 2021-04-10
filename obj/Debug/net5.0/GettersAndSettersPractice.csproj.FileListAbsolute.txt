@@ -1,0 +1,16 @@
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\GettersAndSettersPractice.exe
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\GettersAndSettersPractice.deps.json
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\GettersAndSettersPractice.runtimeconfig.json
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\GettersAndSettersPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\GettersAndSettersPractice.dll
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\ref\GettersAndSettersPractice.dll
+C:\Users\antho\repos\GettersAndSettersPractice\bin\Debug\net5.0\GettersAndSettersPractice.pdb
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.AssemblyInfo.cs
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.dll
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\ref\GettersAndSettersPractice.dll
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.pdb
+C:\Users\antho\repos\GettersAndSettersPractice\obj\Debug\net5.0\GettersAndSettersPractice.genruntimeconfig.cache
